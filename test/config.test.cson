@@ -1,0 +1,6 @@
+test:
+	marketoApi:
+		baseUrl: ""
+		identifyUrl: ""
+		clientId: ""
+		clientSecret: ""
