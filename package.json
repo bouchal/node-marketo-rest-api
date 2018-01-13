@@ -1,5 +1,5 @@
 {
-  "name": "marketo-rest-api",
+  "name": "node-marketo-rest-api",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
