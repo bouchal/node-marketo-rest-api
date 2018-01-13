@@ -4,3 +4,5 @@ test:
 		identifyUrl: ""
 		clientId: ""
 		clientSecret: ""
+
+	redis: ""
