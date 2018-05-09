@@ -1,6 +1,6 @@
 {
   "name": "node-marketo-rest-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/index.js",
   "directories": {
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Scorpio1337/node-marketo-rest-api.git"
+    "url": "git+https://github.com/bouchal/node-marketo-rest-api.git"
   },
   "author": "Antonín Bouchal <me@justme.cz>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Scorpio1337/node-marketo-rest-api/issues"
+    "url": "https://github.com/bouchal/node-marketo-rest-api/issues"
   },
-  "homepage": "https://github.com/Scorpio1337/node-marketo-rest-api#readme",
+  "homepage": "https://github.com/bouchal/node-marketo-rest-api#readme",
   "dependencies": {
     "request": "^2.83.0",
     "redis-url": "^1.2.1"
